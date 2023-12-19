@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto+Mono:wght@100;400;500;700&display=swap");
 :root {
-  --primary-bg-color: #F2F2F2;
-  --secondary-bg-color: #20272E;
-  --primary-color: #007AF3;
-  --secondary-color: black;
-  --color-2: #006BD6;
+  --primary-bg-color: #6998AB;
+    --secondary-bg-color: #1A374D;
+    --primary-color: #406882;
+    --secondary-color: #1A374D;
+    --color-2: #B1D0E0;
 }
 
 * {
@@ -89,7 +89,7 @@ section {
   text-align: center;
 }
 .hero .left-col .sub-head {
-  color: gray;
+  color: rgba(76, 70, 70, 0.79);
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 0.3em;
@@ -157,7 +157,7 @@ section {
 }
 .testimonials-section li {
   text-align: center;
-  background: var(--color-2);
+  background: #b1d0e094;
   width: 80%;
   padding: 2em 1em;
   margin: 0 auto 5em auto;
